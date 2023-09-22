@@ -1,0 +1,79 @@
+body{
+    background-image: url(./Untitled-12.jpg);
+    background-size: calc(100%);
+}
+.logo{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline;
+    justify-content: space-between;
+    margin: 3rem;
+}
+a{
+    color: white;
+    margin: 2rem;
+    position: sticky;
+}
+.navbar{
+    display: inline;
+    justify-content: space-between;
+}
+.btn-enq{
+    color: white;
+    background-color: green;
+
+}
+.search{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem;
+    width: 100%;
+    border-radius: 2rem;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 50%;
+    width: 100%;
+}
+.img1{
+    margin: 3rem;
+    padding: 2rem;
+    transform: rotate(20deg);
+    height: auto;
+    width: auto;
+}
+.section4{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 50%;
+    width: 100%;
+}
+.img2{
+    margin: 3rem;
+    padding: 2rem;
+    transform: rotate(-20deg);
+    height: auto;
+    width: auto;
+}
+.section4{
+    display: flex;
+    justify-content: space-around;
+}
+.section5{
+    margin: 10rem;
+    padding: auto;
+    background-color: white;
+}
+.section6{
+    background-color:darkslateblue; 
+    display: flex; 
+     justify-content: space-between;
+     gap: 3rem;
+      
+}

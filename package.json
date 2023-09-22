@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "name": "projectananya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "home.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
